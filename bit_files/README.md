@@ -1,2 +1,2 @@
-# falcon_mc6s16_v10r00 记录FPGAbit文件工作状态
+# falcon_mc6s16_v10r00 璁板綍FPGA宸ヤ綔鏃ュ巻
 	
