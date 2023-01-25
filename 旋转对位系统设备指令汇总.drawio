@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T12:02:07.566Z" agent="5.0 (X11; Ubuntu)" etag="fSQi7IYKOQmXXbpvtW1a" version="20.8.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-25T12:04:20.622Z" agent="5.0 (X11; Ubuntu)" etag="VOb0Dx7rQBOZEClCAMW1" version="20.8.11" type="github" pages="2">
   <diagram id="xPSfoThewFQ5z_tT7pd7" name="指令说明">
     <mxGraphModel dx="2514" dy="2055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,6 +54,34 @@
         </mxCell>
         <mxCell id="GBv0OgdcWfrF5z7V1ahO-26" value="&lt;div&gt;P相对于下一条指令并行&lt;/div&gt;&lt;div&gt;Q串行指令&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry y="340" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GBv0OgdcWfrF5z7V1ahO-27" value="" style="shape=link;html=1;rounded=0;fontSize=12;width=32.35294117647059;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="380" as="sourcePoint" />
+            <mxPoint x="1370" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBv0OgdcWfrF5z7V1ahO-28" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=12;" connectable="0" vertex="1" parent="GBv0OgdcWfrF5z7V1ahO-27">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBv0OgdcWfrF5z7V1ahO-29" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;SysCtrl UART USB0&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="GBv0OgdcWfrF5z7V1ahO-27">
+          <mxGeometry x="-0.4779" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBv0OgdcWfrF5z7V1ahO-30" value="" style="shape=link;html=1;rounded=0;fontSize=12;width=32.35294117647059;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="1020" as="sourcePoint" />
+            <mxPoint x="1370" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBv0OgdcWfrF5z7V1ahO-31" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=12;" connectable="0" vertex="1" parent="GBv0OgdcWfrF5z7V1ahO-30">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBv0OgdcWfrF5z7V1ahO-32" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Clawing UART USB3&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="GBv0OgdcWfrF5z7V1ahO-30">
+          <mxGeometry x="-0.4779" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
