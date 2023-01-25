@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T12:15:23.119Z" agent="5.0 (X11; Ubuntu)" etag="x9XmHAoRKEzsgrHB0qd7" version="20.8.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-25T12:15:58.099Z" agent="5.0 (X11; Ubuntu)" etag="4I7OOLPZSUWHiOThJqK7" version="20.8.11" type="github" pages="2">
   <diagram id="xPSfoThewFQ5z_tT7pd7" name="指令说明">
-    <mxGraphModel dx="2514" dy="2055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2420" dy="2006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,8 +57,8 @@
         </mxCell>
         <mxCell id="GBv0OgdcWfrF5z7V1ahO-27" value="" style="shape=link;html=1;rounded=0;fontSize=12;width=32.35294117647059;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="380" as="sourcePoint" />
-            <mxPoint x="1370" y="380" as="targetPoint" />
+            <mxPoint x="360" y="651" as="sourcePoint" />
+            <mxPoint x="1370" y="651" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GBv0OgdcWfrF5z7V1ahO-28" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=12;" connectable="0" vertex="1" parent="GBv0OgdcWfrF5z7V1ahO-27">
@@ -71,8 +71,8 @@
         </mxCell>
         <mxCell id="GBv0OgdcWfrF5z7V1ahO-30" value="" style="shape=link;html=1;rounded=0;fontSize=12;width=32.35294117647059;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="1020" as="sourcePoint" />
-            <mxPoint x="1370" y="1020" as="targetPoint" />
+            <mxPoint x="360" y="1291" as="sourcePoint" />
+            <mxPoint x="1370" y="1291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GBv0OgdcWfrF5z7V1ahO-31" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=12;" connectable="0" vertex="1" parent="GBv0OgdcWfrF5z7V1ahO-30">
@@ -84,16 +84,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GBv0OgdcWfrF5z7V1ahO-33" value="&lt;ul&gt;&lt;li&gt;SET指令&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="360" y="410" width="570" height="30" as="geometry" />
+          <mxGeometry x="360" y="681" width="570" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GBv0OgdcWfrF5z7V1ahO-35" value="&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;格式：SET_&quot;字符串“,需要设置的寄存器值&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="360" y="450" width="570" height="30" as="geometry" />
+          <mxGeometry x="360" y="721" width="570" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GBv0OgdcWfrF5z7V1ahO-36" value="&lt;ul&gt;&lt;li&gt;SEC指令&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="360" y="490" width="570" height="30" as="geometry" />
+          <mxGeometry x="360" y="761" width="570" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GBv0OgdcWfrF5z7V1ahO-37" value="&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;格式：SEC_&quot;字符串“_PARAMXX(XX).&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;执行SET指令，并且等待设备返回数据，存放到PARAMXX寄存器，括号内是存放长度&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="360" y="530" width="1050" height="70" as="geometry" />
+          <mxGeometry x="360" y="801" width="1050" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
