@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T11:31:10.774Z" agent="5.0 (X11; Ubuntu)" etag="mREdcfCyM404esyc7XYQ" version="20.8.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-25T11:32:36.574Z" agent="5.0 (X11; Ubuntu)" etag="8zLi5oz9hO4DuoIDHCn6" version="20.8.11" type="github" pages="2">
   <diagram id="xPSfoThewFQ5z_tT7pd7" name="指令说明">
     <mxGraphModel dx="2514" dy="2055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,6 +15,18 @@
         </mxCell>
         <mxCell id="GBv0OgdcWfrF5z7V1ahO-4" value="&lt;ul&gt;&lt;li&gt;Nxxxxx_xxx 表示执行指令&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-80" y="10" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GBv0OgdcWfrF5z7V1ahO-9" value="N" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="280" y="10" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GBv0OgdcWfrF5z7V1ahO-10" value="XXXXX" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;" vertex="1" parent="1">
+          <mxGeometry x="300" y="10" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GBv0OgdcWfrF5z7V1ahO-11" value="_" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;" vertex="1" parent="1">
+          <mxGeometry x="390" y="10" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GBv0OgdcWfrF5z7V1ahO-13" value="XXX" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=left;" vertex="1" parent="1">
+          <mxGeometry x="410" y="10" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
