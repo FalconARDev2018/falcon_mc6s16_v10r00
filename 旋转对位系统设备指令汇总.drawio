@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T11:27:24.819Z" agent="5.0 (X11; Ubuntu)" etag="pLtfU1kElI1CcwkvVhfk" version="20.8.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-25T11:27:30.924Z" agent="5.0 (X11; Ubuntu)" etag="WF_TCKmZaLaMQwU_kRdJ" version="20.8.11" type="github" pages="2">
   <diagram id="xPSfoThewFQ5z_tT7pd7" name="指令说明">
     <mxGraphModel dx="1434" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,9 +12,6 @@
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="1516e18e63f93b96-3" value="旋转对位系统设备操作指令汇总" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="380" width="780" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="4XJKwk52gwjVMFaoKKfj-1" value="&lt;div align=&quot;left&quot;&gt;指令Note：&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;打开真空和检测真空不是同一位&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
           <mxGeometry x="80" y="100" width="600" height="170" as="geometry" />
         </mxCell>
