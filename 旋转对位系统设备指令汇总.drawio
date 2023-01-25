@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T11:27:40.745Z" agent="5.0 (X11; Ubuntu)" etag="phzX2cV-tebuHK-MJDBq" version="20.8.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-25T11:28:16.313Z" agent="5.0 (X11; Ubuntu)" etag="u_4rcl_sb3vn6Q2QtTjk" version="20.8.11" type="github" pages="2">
   <diagram id="xPSfoThewFQ5z_tT7pd7" name="指令说明">
-    <mxGraphModel dx="1687" dy="2055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="2055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GBv0OgdcWfrF5z7V1ahO-1" value="旋转对位系统设备操作指令汇总" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="24" y="-130" width="780" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GBv0OgdcWfrF5z7V1ahO-2" value="/表示注释" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-70" width="520" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
